@@ -1,4 +1,1 @@
-- 👋 Hi, I’m AYUSHI.
-- 👀 I’m interested in CODING.
-- 🌱 I’m currently learning C PROGRAMMING.
-- 📫 You can contact me via my email believerayushi@gmail.com
+
