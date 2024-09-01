@@ -10,5 +10,10 @@ I'm a pre-final year B.Tech CSE (AI/ML) student with a passion for learning and 
 
 ---
 
+### GitHub Stats
+![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi-here&show_icons=true&theme=default)
+
+---
+
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ayushi-here/)
