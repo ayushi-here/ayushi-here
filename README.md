@@ -15,5 +15,3 @@ I'm a pre-final year B.Tech CSE (AI/ML) student with a passion for learning and 
 
 ---
 
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ayushi-here/)
