@@ -5,8 +5,8 @@ I'm a pre-final year B.Tech CSE (AI/ML) student with a passion for learning and 
 ---
 
 ### Recent Projects
-- **[Olympic Data Analysis](https://github.com/ayushi-here/olympic-project):** An analysis app built with Streamlit to visualize Olympic data.
-- **[Spotify Data Analysis](https://github.com/ayushi-here/spotify-data-analysis):** Analyzing and visualizing Spotify data to uncover trends and insights.
+- **[Olympic Data Analysis](https://github.com/ayushi-here/Olympic-Analysis-120years):** An analysis app built with Streamlit to visualize Olympic data.
+- **[Spotify Data Analysis](https://github.com/ayushi-here/Spotify-Data-Analysis-Dashboard):** Analyzing and visualizing Spotify data to uncover trends and insights.
 
 ---
 
